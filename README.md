@@ -1,27 +1,28 @@
 # Angularapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.8.
+## Sandbox App from Angular 4 front to back course on Udemy by Brad Traversy.
 
-## Development server
+I figured this would be a good thing to push to github as I'm working through the course and their relative projects. This will keep me commited 
+To the seeing the project through to completion. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This is a sandbox application I'm building as I'm working through Brad Traversy's *Angular 4 Fron to Back* Udemy course.
+This application will exist as a living reference point from which I'll be able to revist if I'm ever hazy on how something works when developing in Angular 4 and beyond. Here's a list of everything that I've covered so far. 
 
-## Code scaffolding
++ What is Angular 4?
++ Understanding the advantages of using TypeScript and typing in general for Angular development
++ What an oppinionated Framework is, and why that's not a bad thing for some developers. 
++ What a Component is in Angular
+    + The 3 Main Files that make up a Component in Angular.
+        + TypeScript
+        + HTML
+        + Stylesheets
++ What Interfaces are in Angular, and why they're important
++ Creating components from the angular CLI
++ Creating components and hooking them up manually. 
++ The constructor, and ngOnInit, how they're different, and how they're similar. 
+    + When to use the constructor, and when to use ngOnInit
++ Template functions in angular I've learned about so far:
+    + *ngIf
+    + *ngFor
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+I'll be updating this readme as the application development continues periodically. Thanks for stopping by! 
